@@ -18,14 +18,14 @@ h-lua是一套完善的魔兽地图开发集成，更贴近程序开发者的使
 
 ### 访问项目，复制https的链接
 
-> <a target="_blank" href="https://github.com/hunzsig-warcraft3/h-lua-sdk">h-lua-sdk</a>
+> <a target="_blank" href="https://github.com/hunzsig-warcraft3/h-lua">h-lua</a>
 
-![Quick1](https://github.com/hunzsig-warcraft3/h-lua-sdk/raw/gh-pages/img/quick1.png)
+![Quick1](https://github.com/hunzsig-warcraft3/h-lua/raw/gh-pages/img/quick1.png)
 
 ### 克隆（下载）项目
 
 ```
-git clone https://github.com/hunzsig-warcraft3/h-lua-sdk
+git clone https://github.com/hunzsig-warcraft3/h-lua
 ```
 
 > 不推荐使用zip下载，使用git能看到项目的开发历史，在fork的加持下也方便监听项目的更新
@@ -34,13 +34,13 @@ git clone https://github.com/hunzsig-warcraft3/h-lua-sdk
 
 #### fork 流程
 
-![Quick2](https://github.com/hunzsig-warcraft3/h-lua-sdk/raw/gh-pages/img/quick2.png)
+![Quick2](https://github.com/hunzsig-warcraft3/h-lua/raw/gh-pages/img/quick2.png)
 
-![Quick3](https://github.com/hunzsig-warcraft3/h-lua-sdk/raw/gh-pages/img/quick3.png)
+![Quick3](https://github.com/hunzsig-warcraft3/h-lua/raw/gh-pages/img/quick3.png)
 
-![Quick4](https://github.com/hunzsig-warcraft3/h-lua-sdk/raw/gh-pages/img/quick4.png)
+![Quick4](https://github.com/hunzsig-warcraft3/h-lua/raw/gh-pages/img/quick4.png)
 
-![Quick5](https://github.com/hunzsig-warcraft3/h-lua-sdk/raw/gh-pages/img/quick5.png)
+![Quick5](https://github.com/hunzsig-warcraft3/h-lua/raw/gh-pages/img/quick5.png)
 
 ### 代码编辑器
 
@@ -50,12 +50,12 @@ git clone https://github.com/hunzsig-warcraft3/h-lua-sdk
 
 > <a target="_blank" href="https://www.jetbrains.com/idea/download/#section=windows">Ideac (Jetbrain)</a>
 
-![Emmylua](https://github.com/hunzsig-warcraft3/h-lua-sdk/raw/gh-pages/img/emmylua.png)
+![Emmylua](https://github.com/hunzsig-warcraft3/h-lua/raw/gh-pages/img/emmylua.png)
 
-### 打开代码编辑器，载入sdk项目，使用终端并确保进入工作区
+### 打开代码编辑器，进入项目，使用终端并确保进入工作区
 
 ```
-cd ./h-lua-sdk
+cd ./h-lua
 ```
 
 ### 创建新项目
@@ -80,10 +80,10 @@ cd ./h-lua-sdk
 
 > 拓展地图会编写一些业务，来引导你进行学习
 
-* <a target="_blank" href="https://github.com/hunzsig-warcraft3/h-lua-sdk-demo">demo库</a>
-* <a target="_blank" href="https://github.com/hunzsig-warcraft3/h-lua-sdk-demo/tree/main/%E5%9C%B0%E5%9B%BE%E9%A1%B9%E7%9B%AE/h-lua-sdk-helloworld">helloWorld</a>
-* <a target="_blank" href="https://github.com/hunzsig-warcraft3/h-lua-sdk-demo/tree/main/%E5%9C%B0%E5%9B%BE%E9%A1%B9%E7%9B%AE/h-lua-sdk-crash">压力测试</a>
-* <a target="_blank" href="https://github.com/hunzsig-warcraft3/h-lua-sdk-demo/tree/main/%E5%9C%B0%E5%9B%BE%E9%A1%B9%E7%9B%AE/h-lua-sdk-mysterious-land">秘地探奇半成品</a>
+* <a target="_blank" href="https://github.com/hunzsig-warcraft3/h-lua-demo">demo库</a>
+* <a target="_blank" href="https://github.com/hunzsig-warcraft3/h-lua-demo/tree/main/%E5%9C%B0%E5%9B%BE%E9%A1%B9%E7%9B%AE/h-lua-sdk-helloworld">helloWorld</a>
+* <a target="_blank" href="https://github.com/hunzsig-warcraft3/h-lua-demo/tree/main/%E5%9C%B0%E5%9B%BE%E9%A1%B9%E7%9B%AE/h-lua-sdk-crash">压力测试</a>
+* <a target="_blank" href="https://github.com/hunzsig-warcraft3/h-lua-demo/tree/main/%E5%9C%B0%E5%9B%BE%E9%A1%B9%E7%9B%AE/h-lua-sdk-mysterious-land">秘地探奇半成品</a>
 
 ### 完全沒试过lua作图怎么快速学习？
 

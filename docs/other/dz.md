@@ -4,24 +4,24 @@
 
 1、第一步做好你的图，做不好就不用看后面了
 
-> 如我的项目叫 h-lua-sdk-helloworld
+> 如我的项目叫 h-lua-jsqszl
 
 2、使用test测试项目功能
 
 ```
-> sdk.exe test h-lua-sdk-helloworld
+> sdk.exe test h-lua-jsqszl
 ```
 
 3、使用build测试打包后项目功能
 
 ```
-> sdk.exe build h-lua-sdk-helloworld
+> sdk.exe build h-lua-jsqszl
 ```
 
 4、使用dist将项目打包并进行slk优化
 
 ```
-> sdk.exe dist h-lua-sdk-helloworld
+> sdk.exe dist h-lua-jsqszl
 ```
 
 5、项目打包完会启动测试，此时已经在你的war3根目录的map/test目录内有了结果文件，如：

@@ -2,7 +2,7 @@
 
 > hslk是h-lua的物编生成方式，只要在hslk目录中运用设定好的方法，即可创建物编
 >
-> ！！可以参考 hello world <a target="_blank" href="https://github.com/hunzsig-warcraft3/h-lua-sdk-demo/tree/main/%E5%9C%B0%E5%9B%BE%E9%A1%B9%E7%9B%AE/h-lua-sdk-helloworld">点击参考</a>
+> ！！可以参考 hello world <a target="_blank" href="https://github.com/hunzsig-warcraft3/h-lua-demo/tree/main/%E5%9C%B0%E5%9B%BE%E9%A1%B9%E7%9B%AE/h-lua-sdk-helloworld">点击参考</a>
 
 ### 类型
 

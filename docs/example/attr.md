@@ -4,7 +4,7 @@
 
 没错只需要参考一个地方即可
 
-* \h-lua-sdk\depend\h-lua\const\attribute.lua
+* \h-lua\depend\h-lua\const\attribute.lua
 
 先来了解下默认键值们
 

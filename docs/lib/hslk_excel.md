@@ -14,17 +14,17 @@
 
 先来整个简单的excel，3个物品，带有售卖价格
 
-![Excel1](https://github.com/hunzsig-warcraft3/h-lua-sdk/raw/gh-pages/img/excel1.png)
+![Excel1](https://github.com/hunzsig-warcraft3/h-lua/raw/gh-pages/img/excel1.png)
 
 这个excel怎么和代码联动呢？很简单，根本不需要什么工具
 
 > excel自带可保存为一种名为csv的格式，这种格式在web界非常常用
 
-![Excel2](https://github.com/hunzsig-warcraft3/h-lua-sdk/raw/gh-pages/img/excel2.png)
+![Excel2](https://github.com/hunzsig-warcraft3/h-lua/raw/gh-pages/img/excel2.png)
 
 这个csv文件可以使用任意文本编辑器打开，例如最牛逼的编辑器，Vim（PS:这里我只是皮一下实际上用的记事本）
 
-![Excel3](https://github.com/hunzsig-warcraft3/h-lua-sdk/raw/gh-pages/img/excel3.png)
+![Excel3](https://github.com/hunzsig-warcraft3/h-lua/raw/gh-pages/img/excel3.png)
 
 > 以逗号分割每一个格子，序列化，看起来像lua代码里面的什么，没错，table的数据
 
@@ -32,7 +32,7 @@
 
 现在我们来建一个 _excel.lua
 
-![Excel4](https://github.com/hunzsig-warcraft3/h-lua-sdk/raw/gh-pages/img/excel4.png)
+![Excel4](https://github.com/hunzsig-warcraft3/h-lua/raw/gh-pages/img/excel4.png)
 
 > 代码送上
 
@@ -81,8 +81,8 @@ end
 
 然后就没有然后了，来测试看看有没有错
 
-![Excel5](https://github.com/hunzsig-warcraft3/h-lua-sdk/raw/gh-pages/img/excel5.png)
-![Excel6](https://github.com/hunzsig-warcraft3/h-lua-sdk/raw/gh-pages/img/excel6.png)
-![Excel7](https://github.com/hunzsig-warcraft3/h-lua-sdk/raw/gh-pages/img/excel7.png)
+![Excel5](https://github.com/hunzsig-warcraft3/h-lua/raw/gh-pages/img/excel5.png)
+![Excel6](https://github.com/hunzsig-warcraft3/h-lua/raw/gh-pages/img/excel6.png)
+![Excel7](https://github.com/hunzsig-warcraft3/h-lua/raw/gh-pages/img/excel7.png)
 
 ### 轻轻松松~
